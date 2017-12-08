@@ -189,23 +189,23 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     border: 10px solid #4c70ba;
 }
 .widget-profil  h1 {
-    color:#839ccf;
+    color:#F0FFFF;
 }
 .widget-profil  h4 {
-    color:#839ccf; 
+    color:#F0FFFF; 
 }
 .widget-profil  h6 {
-    color:#839ccf; 
+    color:#F0FFFF; 
 }
 .widget-profil  p {
-    color:#839ccf !important;
+    color:#F0FFFF !important;
 }
 .widget-profil #profile_desc {
-    border-bottom: 1px solid #839ccf;
-    border-top: 1px solid #839ccf;
+    border-bottom: 1px solid #F0FFFF;
+    border-top: 1px solid #F0FFFF;
 }
 #profile_social a:hover {
-    color : #3B5998;
+    color : #20B2AA;
 }
 #profile_social a{
     background-color:  #20B2AA;
