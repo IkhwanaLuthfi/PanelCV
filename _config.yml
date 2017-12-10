@@ -3,20 +3,15 @@ title: My Blog
 url: 'http://junlulocky.com'
 baseurl: '/PanelPedia' #change it according to your repository name
 
-
-
 # Profile information
 yourname: Ikhwana Luthfi  ## put your name
 title: 'DESIGNER'  ## your title
 location: Pekanbaru, Riau
-
 
 ## Social Profiles
 facebook: http://www.facebook.com/ibliz.gokilz  ## your facebook account url
 instagram: http://www.instagram.com/ikhwana_luthfi  ## your instagram account url
 linkedin: http://www.linkedin.com/ikhwana luthfi  ## your linkedin account url
 github: http://www.github.com/IkhwanaLuthfi ## you github account url
-
-
 
 # Update all the sections by editing the files inside _includes folder.
